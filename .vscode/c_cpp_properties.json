@@ -2,19 +2,19 @@
     "configurations": [
         {
             "name": "SimpleShooterEditor Editor Win64 Development (SimpleShooter)",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Unreal Projects\\UE5-course-SimpleShooter\\.vscode\\compileCommands_SimpleShooter.json"
+            "compileCommands": "C:\\Unreal Projects\\UE5-course-SimpleShooter\\.vscode\\compileCommands_SimpleShooter.json"
         },
         {
             "name": "Win32",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Unreal Projects\\UE5-course-SimpleShooter\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "C:\\Unreal Projects\\UE5-course-SimpleShooter\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4
