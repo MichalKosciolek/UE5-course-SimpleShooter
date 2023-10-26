@@ -32,6 +32,22 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "C:\\Unreal Projects\\UE5-course-SimpleShooter\\Source\\SimpleShooter\\ShooterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\UE5-course-SimpleShooter\\Source\\SimpleShooter\\ShooterAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\UE5-course-SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "C:\\Unreal Projects\\UE5-course-SimpleShooter\\Source\\SimpleShooter\\ShooterCharacter.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
