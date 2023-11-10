@@ -28,4 +28,4 @@
 /I "C:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\S3Client\VNI" 
 /I "C:\Program Files\Epic Games\UE_5.3\Engine\Source\Developer\S3Client\Internal" 
 /I "C:\Program Files\Epic Games\UE_5.3\Engine\Source\ThirdParty\mimalloc\include" 
-/I "C:\Program Files\Epic Games\UE_5.3\Engine\Source\ThirdParty\libcurl\7.83.1\include" 
+/I "C:\Program Files\Epic Games\UE_5.3\Engine\Source\ThirdParty\libcurl\8.4.0\include" 
